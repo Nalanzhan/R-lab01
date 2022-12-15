@@ -20,7 +20,6 @@ library(datasauRus)
 datasaurus_dozen %>% count(dataset) %>% print(13)
 ```
 
-
 ### Exercise 2
 
 The answers for this exercise are given for you below.
